@@ -1,12 +1,14 @@
-{
-  "name"   : "1.19.2 Optimize paket",
-  "link"  : "blablabla"
-},
-{
-  "name"   : "1.19.3 Optimize paket",
-  "link"  : "blablabla"
-},
-{
-  "name"   : "1.19.4 Optimize paket",
-  "link"  : "blablabla"
-}
+[
+  {
+    "name"   : "1.19.2 Optimize paket",
+    "link"  : "blablabla"
+  },
+  {
+    "name"   : "1.19.3 Optimize paket",
+    "link"  : "blablabla"
+  },
+  {
+    "name"   : "1.19.4 Optimize paket",
+    "link"  : "blablabla"
+  }
+]
